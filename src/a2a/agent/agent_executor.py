@@ -8,7 +8,7 @@ from a2a.types import (
     TaskStatus,
     TaskStatusUpdateEvent,
 )
-from a2a.utils import (
+m a2a.utils import (
     new_agent_text_message,
     new_task,
     new_text_artifact,
